@@ -16,7 +16,7 @@ School,Order,Brick/Legionary,Base,COMPLETION: You may THINK  for each point of i
 Shrine,Order,Brick/Legionary,Base,THINK: Your hand size is increased by +2.,
 Castra Praetoria,Order,Brick/Legionary,Promo,COMPLETION: You may hire any of this structure’s materials.,LEGIONARY: You may make demands with your incomplete structures instead of cards from your hand.
 Watermill,Order,Brick/Legionary,Promo,"LEAD / FOLLOW: When you lead or follow the LABORER role, after taking all of your LABORER  clients’ actions, you may then take your ARCHITECT clients’ actions.",
-Ampitheatre,Order,Concrete/Architect,Base,COMPLETION: You may take a CRAFTSMAN action for each point of influence you have.,
+Amphitheatre,Order,Concrete/Architect,Base,COMPLETION: You may take a CRAFTSMAN action for each point of influence you have.,
 Aqueduct,Order,Concrete/Architect,Base,CLIENTELE: Your influence limit is multiplied by x2.,PATRON: You may also hire a client from your hand.
 Bridge,Order,Concrete/Architect,Base,LEGIONARY: You affect each other player instead of only those next to you and despite the functions of PALISADE structures.,LEGIONARY: You may also stockpile a material that matches the demanded material from each affected player’s stockpile.
 Storeroom,Order,Concrete/Architect,Base,CLIENTELE: You may treat your clients as if they were LABORER clients instead.,
@@ -35,7 +35,7 @@ Stairway,Order,Marble/Patron,Base,"ARCHITECT: You may also add a material from y
 Statue,Order,Marble/Patron,Base,"BUILDING STRUCTURES: You may build this on any type of site. If you do, you may add material of that site’s type to this.",INFLUENCE: You get +3 points when scoring.
 Temple,Order,Marble/Patron,Base,THINK: Your hand size is increased by +4.,
 Forum,Order,Marble/Patron,Imperium,"WIN CONDITION: If you have a client of each type, you win the game.",
-Plebian Council,Order,Marble/Patron,Promo,"WIN CONDITION: If you have more LABORER clients than each other player and there are more LABORER clients than LEGIONARY clients among all clients, you win the game. Count each client that could be treated as either type as both types.",
+Plebeian Council,Order,Marble/Patron,Promo,"WIN CONDITION: If you have more LABORER clients than each other player and there are more LABORER clients than LEGIONARY clients among all clients, you win the game. Count each client that could be treated as either type as both types.",
 Triclinium,Order,Marble/Patron,Promo,"CLIENTELE: When you take a client’s action, if you are leading or following, you may then sell it.",
 Forum Romanum,Order,Marble/Patron,Republic,"WIN CONDITION: If you have a client of each type and a material of each type in your stockpile, you win the game.",
 Bar,Order,Rubble/Laborer,Base,PATRON: You may then hire a client from the top of the deck.,
@@ -43,7 +43,7 @@ Insula,Order,Rubble/Laborer,Base,CLIENTELE: Influence limit increased by +2.,
 Latrine,Order,Rubble/Laborer,Base,THINK: You may first drain an order card from your hand.,
 Road,Order,Rubble/Laborer,Base,BUILDING STRUCTURES: You may add material of any type to STONE structures.,
 Castra,Order,Rubble/Laborer,Promo,"END OF ROUND: If another player stockpiled a material from your hand with a LEGIONARY action, you may THINK.",
-Catacombs,Order,Stone/Merchant,Base,COMPLETION: End the game.,
+Catacomb,Order,Stone/Merchant,Base,COMPLETION: End the game.,
 Circus Maximus,Order,Stone/Merchant,Base,CLIENTELE: You may take your clients’ actions twice instead of once if you are leading or following their role.,
 Garden,Order,Stone/Merchant,Base,COMPLETION: You may take a PATRON action for each point of influence you have.,
 Prison,Order,Stone/Merchant,Base,"COMPLETION: You may give another player at least three points of influence. If you do, you may take a completed structure from them that you don’t already have. Treat that structure as if you had just completed it.",
