@@ -1,0 +1,97 @@
+Name,Card,Type,Set,Primary Function,Secondary Function
+Jack,Jack,None,Base,Spend to lead or follow any role.,
+Merchant Bonus,Merchant Bonus,Brick/Legionary,Base,INFLUENCE: You get +3 points when scoring if you have sold more BRICK than each other player.,
+Merchant Bonus,Merchant Bonus,Concrete/Architect,Base,INFLUENCE: You get +3 points when scoring if you have sold more CONCRETE than each other player.,
+Merchant Bonus,Merchant Bonus,Marble/Patron,Base,INFLUENCE: You get +3 points when scoring if you have sold more MARBLE than each other player.,
+Merchant Bonus,Merchant Bonus,Rubble/Laborer,Base,INFLUENCE: You get +3 points when scoring if you have sold more RUBBLE than each other player.,
+Merchant Bonus,Merchant Bonus,Stone/Merchant,Base,INFLUENCE: You get +3 points when scoring if you have sold more STONE than each other player.,
+Merchant Bonus,Merchant Bonus,Wood/Craftsman,Base,INFLUENCE: You get +3 points when scoring if you have sold more WOOD than each other player.,
+Academy,Order,Brick/Legionary,Base,"END OF ROUND: If you took a CRAFTSMAN action, you may THINK.",
+Archway,Order,Brick/Legionary,Base,ARCHITECT: You may add material to structures from the pool instead of your stockpile.,
+Atrium,Order,Brick/Legionary,Base,"MERCHANT: You may sell material from the top of the deck instead of your stockpile. If you do, don’t look at it until scoring.",
+Bath,Order,Brick/Legionary,Base,"CLIENTELE: When you hire a client, you may then take its action.",
+Foundry,Order,Brick/Legionary,Base,COMPLETION: You may take a LABORER action for each point of influence you have.,
+Gate,Order,Brick/Legionary,Base,BUILDING STRUCTURES: You immediately gain the functions of your MARBLE structures and your structures with MARBLE added to them.,
+School,Order,Brick/Legionary,Base,COMPLETION: You may THINK  for each point of influence you have.,
+Shrine,Order,Brick/Legionary,Base,THINK: Your hand size is increased by +2.,
+Castra Praetoria,Order,Brick/Legionary,Promo,COMPLETION: You may hire any of this structure’s materials.,LEGIONARY: You may make demands with your incomplete structures instead of cards from your hand.
+Watermill,Order,Brick/Legionary,Promo,"LEAD / FOLLOW: When you lead or follow the LABORER role, after taking all of your LABORER  clients’ actions, you may then take your ARCHITECT clients’ actions.",
+Ampitheatre,Order,Concrete/Architect,Base,COMPLETION: You may take a CRAFTSMAN action for each point of influence you have.,
+Aqueduct,Order,Concrete/Architect,Base,CLIENTELE: Your influence limit is multiplied by x2.,PATRON: You may also hire a client from your hand.
+Bridge,Order,Concrete/Architect,Base,LEGIONARY: You affect each other player instead of only those next to you and despite the functions of PALISADE structures.,LEGIONARY: You may also stockpile a material that matches the demanded material from each affected player’s stockpile.
+Storeroom,Order,Concrete/Architect,Base,CLIENTELE: You may treat your clients as if they were LABORER clients instead.,
+Tower,Order,Concrete/Architect,Base,BUILDING STRUCTURES: You may spend only one action to build new structures on out-of-town sites.,BUILDING STRUCTURES: You may add RUBBLE to any type of structure.
+Vomitorium,Order,Concrete/Architect,Base,THINK: You may first drain all the order cards in your hand and return all the JACK cards in your hand.,
+Wall,Order,Concrete/Architect,Base,INFLUENCE: You get +1 point for every two materials in your stockpile when scoring.,INFLUENCE: Increased by +1 point for every two materials in your stockpile when scoring.
+Senate,Order,Concrete/Architect,Imperium,"END OF ROUND: You may draw any JACK cards spent by other players. If more than one player has this function, they must do this in turn order.",
+Aerarium,Order,Concrete/Architect,Promo,"COMPLETION: Give yourself or another player at least two points of influence. If you do, you may choose one of their completed structures and use its COMPLETION function again as if you had just completed it.",INFLUENCE: Your use the number of points that the player with the most influence points has except when scoring.
+Solarium,Order,Concrete/Architect,Promo,"ARCHITECT: If you complete this, you may then stockpile one of its materials.","ARCHITECT: If you complete a structure, you may then stockpile one of its materials."
+Tribunal,Order,Concrete/Architect,Republic,THINK: You may also draw a JACK card.,
+Basilica,Order,Marble/Patron,Base,"MERCHANT: You may also sell a material from your hand. If you do, don’t reveal it to other players  until scoring.",
+Fountain,Order,Marble/Patron,Base,"CRAFTSMAN: You may reveal the top card of the deck instead of a card from your hand. If you do, you may draw it instead of building with it.",
+Ludus Magnus,Order,Marble/Patron,Base,CLIENTELE: You may treat your MERCHANT clients as if they were another type of client instead.,
+Palace,Order,Marble/Patron,Base,"LEAD / FOLLOW: You may lead or follow a role any number of times. If you do, take that role’s action that many times instead of only once.",
+Stairway,Order,Marble/Patron,Base,"ARCHITECT: You may also add a material from your stockpile to another player’s completed structure. While that material is added to it, all players that don’t otherwise have its functions gain them.",
+Statue,Order,Marble/Patron,Base,"BUILDING STRUCTURES: You may build this on any type of site. If you do, you may add material of that site’s type to this.",INFLUENCE: You get +3 points when scoring.
+Temple,Order,Marble/Patron,Base,THINK: Your hand size is increased by +4.,
+Forum,Order,Marble/Patron,Imperium,"WIN CONDITION: If you have a client of each type, you win the game.",
+Plebian Council,Order,Marble/Patron,Promo,"WIN CONDITION: If you have more LABORER clients than each other player and there are more LABORER clients than LEGIONARY clients among all clients, you win the game. Count each client that could be treated as either type as both types.",
+Triclinium,Order,Marble/Patron,Promo,"CLIENTELE: When you take a client’s action, if you are leading or following, you may then sell it.",
+Forum Romanum,Order,Marble/Patron,Republic,"WIN CONDITION: If you have a client of each type and a material of each type in your stockpile, you win the game.",
+Bar,Order,Rubble/Laborer,Base,PATRON: You may then hire a client from the top of the deck.,
+Insula,Order,Rubble/Laborer,Base,CLIENTELE: Influence limit increased by +2.,
+Latrine,Order,Rubble/Laborer,Base,THINK: You may first drain an order card from your hand.,
+Road,Order,Rubble/Laborer,Base,BUILDING STRUCTURES: You may add material of any type to STONE structures.,
+Castra,Order,Rubble/Laborer,Promo,"END OF ROUND: If another player stockpiled a material from your hand with a LEGIONARY action, you may THINK.",
+Catacombs,Order,Stone/Merchant,Base,COMPLETION: End the game.,
+Circus Maximus,Order,Stone/Merchant,Base,CLIENTELE: You may take your clients’ actions twice instead of once if you are leading or following their role.,
+Garden,Order,Stone/Merchant,Base,COMPLETION: You may take a PATRON action for each point of influence you have.,
+Prison,Order,Stone/Merchant,Base,"COMPLETION: You may give another player at least three points of influence. If you do, you may take a completed structure from them that you don’t already have. Treat that structure as if you had just completed it.",
+Scriptorium,Order,Stone/Merchant,Base,BUILDING STRUCTURES: You may add MARBLE to any type of structure. ,"BUILDING STRUCTURES: If you add MARBLE to a structure, it is completed.  "
+Sewer,Order,Stone/Merchant,Base,"LEAD / FOLLOW: If you spend order cards to lead or follow a role, you may stockpile them at the end of the round instead of draining them.",
+Villa,Order,Stone/Merchant,Base,"ARCHITECT: If you add a material to this, it is completed.",
+Colosseum,Order,Stone/Merchant,Imperium,LEGIONARY: You may also sell a client that matches the demanded material from each affected player’s clientele.,
+Bacchanalia,Order,Stone/Merchant,Promo,"COMPLETION: Reveal a card from the top of the deck for each point of influence you have. For each card, you may do one of the following you haven’t done yet: stockpile it, hire it, sell it, add it to one of your incomplete structures, or build it as a new structure on an in-town site. Draw the rest.",
+Watch Post,Order,Stone/Merchant,Promo,CRAFTSMAN: You may instead tear down one of your completed structures by drawing it and stockpiling each of its materials.,
+Domus Aurea,Order,Stone/Merchant,Republic,"LEGIONARY: You may also stockpile an incomplete structure from each affected player. It must match the demanded material and have no materials added to it. If you do, gain its site as points of influence.",
+Dock,Order,Wood/Craftsman,Base,LABORER: You may also stockpile a material from your hand.,
+Market,Order,Wood/Craftsman,Base,VAULT SIZE: Increased by +2.,
+Palisade,Order,Wood/Craftsman,Base,"PROTECTION: When another player takes a LEGIONARY action, you may choose to be unaffected.",
+Circus,Order,Wood/Craftsman,Imperium,LEAD / FOLLOW: You may spend two order cards of the same type to lead or follow any role.,
+Domus,Order,Wood/Craftsman,Promo,COMPLETION: You may take a PATRON action. You may then take the hired client’s action if it matches the role led this round.,
+Crane,Order,Wood/Craftsman,Republic,LEAD / FOLLOW: You may spend an order card of any type to lead or follow the ARCHITECT role.,
+Actions,Reminder,None,Base,"THINK: Draw order cards up to your think size (five cards) OR a single order card OR a JACK card.
+LABORER: Stockpile a material from the pool.
+LEGIONARY: See demand card.
+MERCHANT: Sell a material from your stockpile, if vault space allows.
+PATRON: Hire a client from the pool, if clientele space allows.
+CRAFTSMAN: Build a new structure from your hand OR add a material to a structure from your hand.
+ARCHITECT: Build a new structure from your hand OR add a material to a structure from your stockpile.",
+Building Structures,Reminder,None,Base,"To build a new structure, first reveal it from your hand. It can’t be a structure you already have. Then, build it on a site that matches its type. You can’t build on an out-of-town site unless you first spend a second action. It is now an incomplete structure.
+When adding material to a structure, you must add it to one of your incomplete structures and the material must match its type. If you complete it, you first gain its site as points of influence and then  gain its functions.",
+Game End,Reminder,None,Base,"When there are no cards left in the deck OR there are no in-town sites left OR a structure function ends the game, scoring begins.
+INFLUENCE: You begin with two points of influence and gain more when you complete structures. When scoring, reveal the materials in your vault and gain the points of influence from each material you sold.
+WIN CONDITION: After scoring, if you have more influence than each other player, you win the game. The player with more cards in their hand wins ties.",
+Imperium Romanum,Reminder,None,Base,"Include these cards in the deck instead of those listed on the other side:
+CRANE
+TRIBUNAL
+DOMUS AUREA
+FORUM ROMANUM
+Hands start with five order cards.
+Spend two order cards of the same type to lead or follow any role.",
+Leader,Reminder,None,Base,"You must THINK and end the round or choose a role to lead.
+If you lead a role,  each other player in turn order must either THINK or follow it. Then, each player takes a turn before the round ends. When the round ends, the next player becomes the LEADER.",
+Republica Romana,Reminder,None,Base,"Include these cards in the deck instead of those listed on the other side:
+CIRCUS
+SENATE
+COLOSSEUM
+FORUM
+Hands start with four order cards and one JACK card.
+Spend three order cards of the same type to lead or follow any role.",
+Rome Demands,Reminder,None,Base,"When you take a LEGIONARY action, you may make a demand by revealing a material from your hand. If you do, stockpile a material that matches the demanded material from the pool and from the hands of the players next to you. It can’t be used to make another demand this turn; keep it revealed on this mat as a reminder.",
+In-Town Site,Site,Brick/Legionary,Base,"BUILDING STRUCTURES: If you add a second material to this structure, it is completed.",
+In-Town Site,Site,Concrete/Architect,Base,"BUILDING STRUCTURES: If you add a second material to this structure, it is completed.",
+In-Town Site,Site,Marble/Patron,Base,"BUILDING STRUCTURES: If you add a third material to this structure, it is completed.",
+In-Town Site,Site,Rubble/Laborer,Base,"BUILDING STRUCTURES: If you add a material to this structure, it is completed.",
+In-Town Site,Site,Stone/Merchant,Base,"BUILDING STRUCTURES: If you add a third material to this structure, it is completed.",
+In-Town Site,Site,Wood/Craftsman,Base,"BUILDING STRUCTURES: If you add a material to this structure, it is completed.",
