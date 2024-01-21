@@ -1,6 +1,7 @@
 Academy:
   Card Count: 3
-  Function: May perform one THINKER action after turn during which you performed CRAFTSMAN action
+  Function: >-
+    May perform one THINKER action after turn during which you performed CRAFTSMAN action
   Material: Brick
   Role: Legionary
   Set: ''
@@ -10,8 +11,9 @@ Academy:
 
 Aerarium:
   Card Count: 3
-  Function: Use highest influence among players (except scoring). May exchange influence to trigger "Upon
-    Completion" effect on a complete building
+  Function: >-
+    Use highest influence among players (except scoring).
+    May exchange influence to trigger "Upon Completion" effect on a complete building
   Material: Concrete
   Role: Architect
   Set: Board Game Geek expansion
@@ -21,7 +23,8 @@ Aerarium:
 
 Amphitheatre:
   Card Count: 3
-  Function: May perform one CRAFTSMAN action for each INFLUENCE
+  Function: >-
+    May perform one CRAFTSMAN action for each INFLUENCE
   Material: Concrete
   Role: Architect
   Set: ''
@@ -31,7 +34,9 @@ Amphitheatre:
 
 Aqueduct:
   Card Count: 3
-  Function: When performing PATRON action may take client from HAND.  Maximum CLIENTELE x 2
+  Function: >-
+    When performing PATRON action may take client from HAND.
+    Maximum CLIENTELE x 2
   Material: Concrete
   Role: Architect
   Set: ''
@@ -41,7 +46,8 @@ Aqueduct:
 
 Archway:
   Card Count: 3
-  Function: When performing ARCHITECT action may take material from POOL
+  Function: >-
+    When performing ARCHITECT action may take material from POOL
   Material: Brick
   Role: Legionary
   Set: ''
@@ -51,7 +57,8 @@ Archway:
 
 Atrium:
   Card Count: 3
-  Function: When performing MERCHANT action may take from DECK (do not look at card)
+  Function: >-
+    When performing MERCHANT action may take from DECK (do not look at card)
   Material: Brick
   Role: Legionary
   Set: ''
@@ -61,8 +68,10 @@ Atrium:
 
 Bacchanalia:
   Card Count: 3
-  Function: Upon Completion, reveal cards from the deck equal to influence. May put 1 in VAULT, 1 in STOCKPILE,
-    1 in CLIENTELE, 1 on in-town site, 1 as a material for a building. Leftovers go in hand.
+  Function: >-
+    Upon Completion, reveal cards from the deck equal to influence.
+    May put 1 in VAULT, 1 in STOCKPILE, 1 in CLIENTELE, 1 on in-town site, 1 as a material for a building.
+    Leftovers go in hand.
   Material: Stone
   Role: Merchant
   Set: Board Game Geek expansion
@@ -72,7 +81,8 @@ Bacchanalia:
 
 Bar:
   Card Count: 6
-  Function: When performing PATRON action may take card from DECK
+  Function: >-
+    When performing PATRON action may take card from DECK
   Material: Rubble
   Role: Laborer
   Set: ''
@@ -82,7 +92,8 @@ Bar:
 
 Basilica:
   Card Count: 3
-  Function: When performing MERCHANT action may take material from HAND
+  Function: >-
+    When performing MERCHANT action may take material from HAND
   Material: Marble
   Role: Patron
   Set: ''
@@ -92,8 +103,8 @@ Basilica:
 
 Bath:
   Card Count: 3
-  Function: When performing PATRON action each client you hire may perform its action once as it enters
-    CLIENTELE
+  Function: >-
+    When performing PATRON action each client you hire may perform its action once as it enters CLIENTELE
   Material: Brick
   Role: Legionary
   Set: ''
@@ -103,8 +114,10 @@ Bath:
 
 Bridge:
   Card Count: 3
-  Function: When performing LEGIONARY action may take material from STOCKPILE.  Ignore Palisades.  May
-    take from all opponents
+  Function: >-
+    When performing LEGIONARY action may take material from STOCKPILE.
+    Ignore Palisades.
+    May take from all opponents
   Material: Concrete
   Role: Architect
   Set: ''
@@ -114,7 +127,8 @@ Bridge:
 
 Castra:
   Card Count: 6
-  Function: THINK at end of a round when you lost card to LEGIONARY
+  Function: >-
+    THINK at end of a round when you lost card to LEGIONARY
   Material: Rubble
   Role: Laborer
   Set: Board Game Geek expansion
@@ -124,8 +138,9 @@ Castra:
 
 Castra Praetoria:
   Card Count: 3
-  Function: May show incomplete building to demand with LEGIONARY. Upon completion, may put material from
-    this building in STOCKPILE.
+  Function: >-
+    May show incomplete building to demand with LEGIONARY.
+    Upon completion, may put material from this building in STOCKPILE.
   Material: Brick
   Role: Legionary
   Set: Board Game Geek expansion
@@ -135,7 +150,9 @@ Castra Praetoria:
 
 Catacomb:
   Card Count: 3
-  Function: Game ends immediately.  Score as usual
+  Function: >-
+    Game ends immediately.
+    Score as usual
   Material: Stone
   Role: Merchant
   Set: ''
@@ -145,7 +162,8 @@ Catacomb:
 
 Circus:
   Card Count: 6
-  Function: May play two cards of same role as JACK
+  Function: >-
+    May play two cards of same role as JACK
   Material: Wood
   Role: Craftsman
   Set: Imperium
@@ -155,7 +173,8 @@ Circus:
 
 Circus Maximus:
   Card Count: 3
-  Function: Each client may perform its action twice when you lead or follow its role
+  Function: >-
+    Each client may perform its action twice when you lead or follow its role
   Material: Stone
   Role: Merchant
   Set: ''
@@ -165,7 +184,8 @@ Circus Maximus:
 
 Colosseum:
   Card Count: 3
-  Function: When performing LEGIONARY action may take opponent's client and place in VAULT as material
+  Function: >-
+    When performing LEGIONARY action may take opponent's client and place in VAULT as material
   Material: Stone
   Role: Merchant
   Set: Imperium
@@ -175,7 +195,8 @@ Colosseum:
 
 Crane:
   Card Count: 6
-  Function: May use any card to lead or follow ARCHITECT
+  Function: >-
+    May use any card to lead or follow ARCHITECT
   Material: Wood
   Role: Craftsman
   Set: Republic
@@ -185,7 +206,8 @@ Crane:
 
 Dock:
   Card Count: 6
-  Function: When performing LABORER action may take material from HAND
+  Function: >-
+    When performing LABORER action may take material from HAND
   Material: Wood
   Role: Craftsman
   Set: ''
@@ -195,7 +217,8 @@ Dock:
 
 Domus:
   Card Count: 6
-  Function: Upon Completion, may perform one PATRON action
+  Function: >-
+    Upon Completion, may perform one PATRON action
   Material: Wood
   Role: Craftsman
   Set: Board Game Geek expansion
@@ -205,7 +228,8 @@ Domus:
 
 Domus Aurea:
   Card Count: 3
-  Function: When performing LEGIONARY action, may tear down matching incomplete building with no material.
+  Function: >-
+    When performing LEGIONARY action, may tear down matching incomplete building with no material.
     Foundation -> STOCKPILE, site -> INFLUENCE
   Material: Stone
   Role: Merchant
@@ -216,7 +240,8 @@ Domus Aurea:
 
 Forum:
   Card Count: 3
-  Function: One client of each role wins game
+  Function: >-
+    One client of each role wins game
   Material: Marble
   Role: Patron
   Set: Imperium
@@ -226,7 +251,8 @@ Forum:
 
 Forum Romanum:
   Card Count: 3
-  Function: One client of each role and one of each material in STOCKPILE wins game
+  Function: >-
+    One client of each role and one of each material in STOCKPILE wins game
   Material: Marble
   Role: Patron
   Set: Republic
@@ -236,7 +262,8 @@ Forum Romanum:
 
 Foundry:
   Card Count: 3
-  Function: May perform one LABORER action for each INFLUENCE
+  Function: >-
+    May perform one LABORER action for each INFLUENCE
   Material: Brick
   Role: Legionary
   Set: ''
@@ -246,7 +273,9 @@ Foundry:
 
 Fountain:
   Card Count: 3
-  Function: When performing CRAFTSMAN action may use cards from DECK.  Retain any unused cards in HAND
+  Function: >-
+    When performing CRAFTSMAN action may use cards from DECK.
+    Retain any unused cards in HAND
   Material: Marble
   Role: Patron
   Set: ''
@@ -256,7 +285,8 @@ Fountain:
 
 Garden:
   Card Count: 3
-  Function: May perform one PATRON action for each INFLUENCE
+  Function: >-
+    May perform one PATRON action for each INFLUENCE
   Material: Stone
   Role: Merchant
   Set: ''
@@ -266,7 +296,8 @@ Garden:
 
 Gate:
   Card Count: 3
-  Function: Incomplete MARBLE structures provide FUNCTION
+  Function: >-
+    Incomplete MARBLE structures provide FUNCTION
   Material: Brick
   Role: Legionary
   Set: ''
@@ -276,7 +307,8 @@ Gate:
 
 Insula:
   Card Count: 6
-  Function: Maximum CLIENTELE + 2
+  Function: >-
+    Maximum CLIENTELE + 2
   Material: Rubble
   Role: Laborer
   Set: ''
@@ -286,7 +318,8 @@ Insula:
 
 Latrine:
   Card Count: 6
-  Function: Before performing THINKER action may discard one card to POOL
+  Function: >-
+    Before performing THINKER action may discard one card to POOL
   Material: Rubble
   Role: Laborer
   Set: ''
@@ -296,7 +329,8 @@ Latrine:
 
 Ludus Magnus:
   Card Count: 3
-  Function: Each MERCHANT client counts as any role
+  Function: >-
+    Each MERCHANT client counts as any role
   Material: Marble
   Role: Patron
   Set: ''
@@ -306,7 +340,8 @@ Ludus Magnus:
 
 Market:
   Card Count: 6
-  Function: Maximum VAULT + 2
+  Function: >-
+    Maximum VAULT + 2
   Material: Wood
   Role: Craftsman
   Set: ''
@@ -316,7 +351,8 @@ Market:
 
 Palace:
   Card Count: 3
-  Function: May play multiple cards of same role in order to perform additional actions
+  Function: >-
+    May play multiple cards of same role in order to perform additional actions
   Material: Marble
   Role: Patron
   Set: ''
@@ -326,7 +362,8 @@ Palace:
 
 Palisade:
   Card Count: 6
-  Function: Immune to LEGIONARY
+  Function: >-
+    Immune to LEGIONARY
   Material: Wood
   Role: Craftsman
   Set: ''
@@ -336,7 +373,8 @@ Palisade:
 
 Plebeian Council:
   Card Count: 3
-  Function: Win whenever you have more LABORER clients than any other player and there are more LABORER
+  Function: >-
+    Win whenever you have more LABORER clients than any other player and there are more LABORER
     clients than LEGIONARY clients total.
   Material: Marble
   Role: Patron
@@ -347,7 +385,8 @@ Plebeian Council:
 
 Prison:
   Card Count: 3
-  Function: May exchange INFLUENCE for opponent's completed structure
+  Function: >-
+    May exchange INFLUENCE for opponent's completed structure
   Material: Stone
   Role: Merchant
   Set: ''
@@ -357,7 +396,8 @@ Prison:
 
 Road:
   Card Count: 6
-  Function: When adding to STONE structure may use any material
+  Function: >-
+    When adding to STONE structure may use any material
   Material: Rubble
   Role: Laborer
   Set: ''
@@ -367,7 +407,8 @@ Road:
 
 School:
   Card Count: 3
-  Function: May perform one THINKER action for each INFLUENCE
+  Function: >-
+    May perform one THINKER action for each INFLUENCE
   Material: Brick
   Role: Legionary
   Set: ''
@@ -377,7 +418,8 @@ School:
 
 Scriptorium:
   Card Count: 3
-  Function: May use one MARBLE material to complete any structure
+  Function: >-
+    May use one MARBLE material to complete any structure
   Material: Stone
   Role: Merchant
   Set: ''
@@ -387,7 +429,8 @@ Scriptorium:
 
 Senate:
   Card Count: 3
-  Function: May take opponent's JACK into HAND at end of turn in which it is played
+  Function: >-
+    May take opponent's JACK into HAND at end of turn in which it is played
   Material: Concrete
   Role: Architect
   Set: Imperium
@@ -397,7 +440,8 @@ Senate:
 
 Sewer:
   Card Count: 3
-  Function: May place Orders cards used to lead or follow into STOCKPILE at end of turn
+  Function: >-
+    May place Orders cards used to lead or follow into STOCKPILE at end of turn
   Material: Stone
   Role: Merchant
   Set: ''
@@ -407,7 +451,8 @@ Sewer:
 
 Shrine:
   Card Count: 3
-  Function: Maximum HAND + 2
+  Function: >-
+    Maximum HAND + 2
   Material: Brick
   Role: Legionary
   Set: ''
@@ -417,7 +462,8 @@ Shrine:
 
 Solarium:
   Card Count: 3
-  Function: Whenever you complete a building using ARCHITECT, may move one material from building to STOCKPILE.
+  Function: >-
+    Whenever you complete a building using ARCHITECT, may move one material from building to STOCKPILE.
     Includes when building SOLARIUM.
   Material: Concrete
   Role: Architect
@@ -428,7 +474,8 @@ Solarium:
 
 Stairway:
   Card Count: 3
-  Function: When performing ARCHITECT action may add material to opponent's completed STRUCTURE to make
+  Function: >-
+    When performing ARCHITECT action may add material to opponent's completed STRUCTURE to make
     function available to all players
   Material: Marble
   Role: Patron
@@ -439,7 +486,9 @@ Stairway:
 
 Statue:
   Card Count: 3
-  Function: + 3 VP. May place Statue on any SITE
+  Function: >-
+    + 3 VP.
+    May place Statue on any SITE
   Material: Marble
   Role: Patron
   Set: ''
@@ -449,7 +498,8 @@ Statue:
 
 Storeroom:
   Card Count: 3
-  Function: All clients count as LABORERS
+  Function: >-
+    All clients count as LABORERS
   Material: Concrete
   Role: Architect
   Set: ''
@@ -459,7 +509,8 @@ Storeroom:
 
 Temple:
   Card Count: 3
-  Function: Maximum HAND + 4
+  Function: >-
+    Maximum HAND + 4
   Material: Marble
   Role: Patron
   Set: ''
@@ -469,8 +520,9 @@ Temple:
 
 Tower:
   Card Count: 3
-  Function: May use RUBBLE in any STRUCTURE.  May lay foundation onto any out of town SITE at no extra
-    cost
+  Function: >-
+    May use RUBBLE in any STRUCTURE.
+    May lay foundation onto any out of town SITE at no extra cost
   Material: Concrete
   Role: Architect
   Set: ''
@@ -480,7 +532,8 @@ Tower:
 
 Tribunal:
   Card Count: 3
-  Function: After performing THINKER action, may draw a JACK
+  Function: >-
+    After performing THINKER action, may draw a JACK
   Material: Concrete
   Role: Architect
   Set: Republic
@@ -490,7 +543,8 @@ Tribunal:
 
 Triclinium:
   Card Count: 3
-  Function: When leading or following, may put each client into VAULT after it performs its role.
+  Function: >-
+    When leading or following, may put each client into VAULT after it performs its role.
   Material: Marble
   Role: Patron
   Set: Board Game Geek expansion
@@ -500,7 +554,8 @@ Triclinium:
 
 Villa:
   Card Count: 3
-  Function: When performing ARCHITECT action may complete Villa with one material
+  Function: >-
+    When performing ARCHITECT action may complete Villa with one material
   Material: Stone
   Role: Merchant
   Set: ''
@@ -510,7 +565,8 @@ Villa:
 
 Vomitorium:
   Card Count: 3
-  Function: Before performing THINKER action may discard all cards to POOL
+  Function: >-
+    Before performing THINKER action may discard all cards to POOL
   Material: Concrete
   Role: Architect
   Set: ''
@@ -520,7 +576,9 @@ Vomitorium:
 
 Wall:
   Card Count: 3
-  Function: Immune to LEGIONARY.  + 1 VP for every two materials in STOCKPILE
+  Function: >-
+    Immune to LEGIONARY.
+    + 1 VP for every two materials in STOCKPILE
   Material: Concrete
   Role: Architect
   Set: ''
@@ -530,8 +588,9 @@ Wall:
 
 Watch Post:
   Card Count: 3
-  Function: May use CRAFTSMAN to tear down one of your completed bulidings. Foundation -> HAND, materials
-    -> STOCKPILE.
+  Function: >-
+    May use CRAFTSMAN to tear down one of your completed bulidings.
+    Foundation -> HAND, materials -> STOCKPILE.
   Material: Stone
   Role: Merchant
   Set: Board Game Geek expansion
@@ -541,7 +600,8 @@ Watch Post:
 
 Watermill:
   Card Count: 3
-  Function: At end of turn when you led or followed LABORER, may use each ARCHITECT client once.
+  Function: >-
+    At end of turn when you led or followed LABORER, may use each ARCHITECT client once.
   Material: Brick
   Role: Legionary
   Set: Board Game Geek expansion
