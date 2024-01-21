@@ -1,6 +1,7 @@
 Academy:
   Card Count: 3
-  Function: 'END OF ROUND: If you took a CRAFTSMAN action, you may THINK.'
+  Function: >-
+    END OF ROUND: If you took a CRAFTSMAN action, you may THINK.
   Material: Brick
   Role: Legionary
   Set: ''
@@ -10,10 +11,13 @@ Academy:
 
 Aerarium:
   Card Count: 3
-  Function: "COMPLETION: Give yourself or another player at least two points of influence. If you do,\
-    \ you may choose one of their completed structures and use its COMPLETION function again as if you\
-    \ had just completed it.\n\nINFLUENCE: Your use the number of points that the player with the most\
-    \ influence points has except when scoring."
+  Function: >-
+    COMPLETION: Give yourself or another player at least two points of influence.
+    If you do, you may choose one of their completed structures and use its COMPLETION function again as if you
+    had just completed it.
+
+    INFLUENCE: Your use the number of points that the player with the most
+    influence points has except when scoring.
   Material: Concrete
   Role: Architect
   Set: Board Game Geek expansion
@@ -23,7 +27,8 @@ Aerarium:
 
 Amphitheatre:
   Card Count: 3
-  Function: 'COMPLETION: You may take a CRAFTSMAN action for each point of influence you have.'
+  Function: >-
+    COMPLETION: You may take a CRAFTSMAN action for each point of influence you have.
   Material: Concrete
   Role: Architect
   Set: ''
@@ -33,7 +38,7 @@ Amphitheatre:
 
 Aqueduct:
   Card Count: 3
-  Function: |-
+  Function: >-
     CLIENTELE: Your influence limit is multiplied by x2.
 
     PATRON: You may also hire a client from your hand.
@@ -46,7 +51,8 @@ Aqueduct:
 
 Archway:
   Card Count: 3
-  Function: 'ARCHITECT: You may add material to structures from the pool instead of your stockpile.'
+  Function: >-
+    ARCHITECT: You may add material to structures from the pool instead of your stockpile.
   Material: Brick
   Role: Legionary
   Set: ''
@@ -56,8 +62,9 @@ Archway:
 
 Atrium:
   Card Count: 3
-  Function: 'MERCHANT: You may sell material from the top of the deck instead of your stockpile. If you
-    do, don’t look at it until scoring.'
+  Function: >-
+    MERCHANT: You may sell material from the top of the deck instead of your stockpile.
+    If you do, don't look at it until scoring.
   Material: Brick
   Role: Legionary
   Set: ''
@@ -67,10 +74,11 @@ Atrium:
 
 Bacchanalia:
   Card Count: 3
-  Function: 'COMPLETION: Reveal a card from the top of the deck for each point of influence you have.
-    For each card, you may do one of the following you haven’t done yet: stockpile it, hire it, sell it,
-    add it to one of your incomplete structures, or build it as a new structure on an in-town site. Draw
-    the rest.'
+  Function: >-
+    COMPLETION: Reveal a card from the top of the deck for each point of influence you have.
+    For each card, you may do one of the following you haven't done yet: stockpile it, hire it, sell it,
+    add it to one of your incomplete structures, or build it as a new structure on an in-town site.
+    Draw the rest.
   Material: Stone
   Role: Merchant
   Set: Board Game Geek expansion
@@ -80,7 +88,8 @@ Bacchanalia:
 
 Bar:
   Card Count: 6
-  Function: 'PATRON: You may then hire a client from the top of the deck.'
+  Function: >-
+    PATRON: You may then hire a client from the top of the deck.
   Material: Rubble
   Role: Laborer
   Set: ''
@@ -90,8 +99,9 @@ Bar:
 
 Basilica:
   Card Count: 3
-  Function: 'MERCHANT: You may also sell a material from your hand. If you do, don’t reveal it to other
-    players  until scoring.'
+  Function: >-
+    MERCHANT: You may also sell a material from your hand.
+      If you do, don't reveal it to other players until scoring.
   Material: Marble
   Role: Patron
   Set: ''
@@ -101,7 +111,8 @@ Basilica:
 
 Bath:
   Card Count: 3
-  Function: 'CLIENTELE: When you hire a client, you may then take its action.'
+  Function: >-
+    CLIENTELE: When you hire a client, you may then take its action.
   Material: Brick
   Role: Legionary
   Set: ''
@@ -111,9 +122,12 @@ Bath:
 
 Bridge:
   Card Count: 3
-  Function: "LEGIONARY: You affect each other player instead of only those next to you and despite the\
-    \ functions of PALISADE structures.\n\nLEGIONARY: You may also stockpile a material that matches the\
-    \ demanded material from each affected player’s stockpile."
+  Function: >-
+    LEGIONARY: You affect each other player instead of only those next to you and despite the
+    functions of PALISADE structures.
+
+    LEGIONARY: You may also stockpile a material that matches the
+    demanded material from each affected player's stockpile.
   Material: Concrete
   Role: Architect
   Set: ''
@@ -123,8 +137,9 @@ Bridge:
 
 Castra:
   Card Count: 6
-  Function: 'END OF ROUND: If another player stockpiled a material from your hand with a LEGIONARY action,
-    you may THINK.'
+  Function: >-
+    END OF ROUND: If another player stockpiled a material from your hand with a LEGIONARY action,
+    you may THINK.
   Material: Rubble
   Role: Laborer
   Set: Board Game Geek expansion
@@ -134,8 +149,8 @@ Castra:
 
 Castra Praetoria:
   Card Count: 3
-  Function: |-
-    COMPLETION: You may hire any of this structure’s materials.
+  Function: >-
+    COMPLETION: You may hire any of this structure's materials.
 
     LEGIONARY: You may make demands with your incomplete structures instead of cards from your hand.
   Material: Brick
@@ -147,7 +162,8 @@ Castra Praetoria:
 
 Catacomb:
   Card Count: 3
-  Function: 'COMPLETION: End the game.'
+  Function: >-
+    COMPLETION: End the game.
   Material: Stone
   Role: Merchant
   Set: ''
@@ -157,7 +173,8 @@ Catacomb:
 
 Circus:
   Card Count: 6
-  Function: 'LEAD / FOLLOW: You may spend two order cards of the same type to lead or follow any role.'
+  Function: >-
+    LEAD / FOLLOW: You may spend two order cards of the same type to lead or follow any role.
   Material: Wood
   Role: Craftsman
   Set: Imperium
@@ -167,8 +184,9 @@ Circus:
 
 Circus Maximus:
   Card Count: 3
-  Function: 'CLIENTELE: You may take your clients’ actions twice instead of once if you are leading or
-    following their role.'
+  Function: >-
+    CLIENTELE: You may take your clients' actions twice instead of once if you are leading or
+    following their role.
   Material: Stone
   Role: Merchant
   Set: ''
@@ -178,8 +196,9 @@ Circus Maximus:
 
 Colosseum:
   Card Count: 3
-  Function: 'LEGIONARY: You may also sell a client that matches the demanded material from each affected
-    player’s clientele.'
+  Function: >-
+    LEGIONARY: You may also sell a client that matches the demanded material from each affected
+    player's clientele.
   Material: Stone
   Role: Merchant
   Set: Imperium
@@ -189,7 +208,8 @@ Colosseum:
 
 Crane:
   Card Count: 6
-  Function: 'LEAD / FOLLOW: You may spend an order card of any type to lead or follow the ARCHITECT role.'
+  Function: >-
+    LEAD / FOLLOW: You may spend an order card of any type to lead or follow the ARCHITECT role.
   Material: Wood
   Role: Craftsman
   Set: Republic
@@ -199,7 +219,8 @@ Crane:
 
 Dock:
   Card Count: 6
-  Function: 'LABORER: You may also stockpile a material from your hand.'
+  Function: >-
+    LABORER: You may also stockpile a material from your hand.
   Material: Wood
   Role: Craftsman
   Set: ''
@@ -209,8 +230,10 @@ Dock:
 
 Domus:
   Card Count: 6
-  Function: 'COMPLETION: You may take a PATRON action. You may then take the hired client’s action if
-    it matches the role led this round.'
+  Function: >-
+    COMPLETION: You may take a PATRON action.
+    You may then take the hired client's action if it matches the role led this
+    round.
   Material: Wood
   Role: Craftsman
   Set: Board Game Geek expansion
@@ -220,9 +243,10 @@ Domus:
 
 Domus Aurea:
   Card Count: 3
-  Function: 'LEGIONARY: You may also stockpile an incomplete structure from each affected player. It must
-    match the demanded material and have no materials added to it. If you do, gain its site as points
-    of influence.'
+  Function: >-
+    LEGIONARY: You may also stockpile an incomplete structure from each affected player.
+    It must match the demanded material and have no materials added to it.
+    If you do, gain its site as points of influence.
   Material: Stone
   Role: Merchant
   Set: Republic
@@ -232,7 +256,8 @@ Domus Aurea:
 
 Forum:
   Card Count: 3
-  Function: 'WIN CONDITION: If you have a client of each type, you win the game.'
+  Function: >-
+    WIN CONDITION: If you have a client of each type, you win the game.
   Material: Marble
   Role: Patron
   Set: Imperium
@@ -242,8 +267,9 @@ Forum:
 
 Forum Romanum:
   Card Count: 3
-  Function: 'WIN CONDITION: If you have a client of each type and a material of each type in your stockpile,
-    you win the game.'
+  Function: >-
+    WIN CONDITION: If you have a client of each type and a material of each type in your stockpile,
+    you win the game.
   Material: Marble
   Role: Patron
   Set: Republic
@@ -253,7 +279,8 @@ Forum Romanum:
 
 Foundry:
   Card Count: 3
-  Function: 'COMPLETION: You may take a LABORER action for each point of influence you have.'
+  Function: >-
+    COMPLETION: You may take a LABORER action for each point of influence you have.
   Material: Brick
   Role: Legionary
   Set: ''
@@ -263,8 +290,9 @@ Foundry:
 
 Fountain:
   Card Count: 3
-  Function: 'CRAFTSMAN: You may reveal the top card of the deck instead of a card from your hand. If you
-    do, you may draw it instead of building with it.'
+  Function: >-
+    CRAFTSMAN: You may reveal the top card of the deck instead of a card from your hand.
+    If you do, you may draw it instead of building with it.
   Material: Marble
   Role: Patron
   Set: ''
@@ -274,7 +302,8 @@ Fountain:
 
 Garden:
   Card Count: 3
-  Function: 'COMPLETION: You may take a PATRON action for each point of influence you have.'
+  Function: >-
+    COMPLETION: You may take a PATRON action for each point of influence you have.
   Material: Stone
   Role: Merchant
   Set: ''
@@ -284,8 +313,9 @@ Garden:
 
 Gate:
   Card Count: 3
-  Function: 'BUILDING STRUCTURES: You immediately gain the functions of your MARBLE structures and your
-    structures with MARBLE added to them.'
+  Function: >-
+    BUILDING STRUCTURES: You immediately gain the functions of your MARBLE structures and your
+    structures with MARBLE added to them.
   Material: Brick
   Role: Legionary
   Set: ''
@@ -295,7 +325,8 @@ Gate:
 
 Insula:
   Card Count: 6
-  Function: 'CLIENTELE: Influence limit increased by +2.'
+  Function: >-
+    CLIENTELE: Influence limit increased by +2.
   Material: Rubble
   Role: Laborer
   Set: ''
@@ -305,7 +336,8 @@ Insula:
 
 Latrine:
   Card Count: 6
-  Function: 'THINK: You may first drain an order card from your hand.'
+  Function: >-
+    THINK: You may first drain an order card from your hand.
   Material: Rubble
   Role: Laborer
   Set: ''
@@ -315,7 +347,8 @@ Latrine:
 
 Ludus Magnus:
   Card Count: 3
-  Function: 'CLIENTELE: You may treat your MERCHANT clients as if they were another type of client instead.'
+  Function: >-
+    CLIENTELE: You may treat your MERCHANT clients as if they were another type of client instead.
   Material: Marble
   Role: Patron
   Set: ''
@@ -325,7 +358,8 @@ Ludus Magnus:
 
 Market:
   Card Count: 6
-  Function: 'VAULT SIZE: Increased by +2.'
+  Function: >-
+    VAULT SIZE: Increased by +2.
   Material: Wood
   Role: Craftsman
   Set: ''
@@ -335,8 +369,9 @@ Market:
 
 Palace:
   Card Count: 3
-  Function: 'LEAD / FOLLOW: You may lead or follow a role any number of times. If you do, take that role’s
-    action that many times instead of only once.'
+  Function: >-
+    LEAD / FOLLOW: You may lead or follow a role any number of times.
+    If you do, take that role's action that many times instead of only once.
   Material: Marble
   Role: Patron
   Set: ''
@@ -346,7 +381,8 @@ Palace:
 
 Palisade:
   Card Count: 6
-  Function: 'PROTECTION: When another player takes a LEGIONARY action, you may choose to be unaffected.'
+  Function: >-
+    PROTECTION: When another player takes a LEGIONARY action, you may choose to be unaffected.
   Material: Wood
   Role: Craftsman
   Set: ''
@@ -356,9 +392,10 @@ Palisade:
 
 Plebeian Council:
   Card Count: 3
-  Function: 'WIN CONDITION: If you have more LABORER clients than each other player and there are more
+  Function: >-
+    WIN CONDITION: If you have more LABORER clients than each other player and there are more
     LABORER clients than LEGIONARY clients among all clients, you win the game. Count each client that
-    could be treated as either type as both types.'
+    could be treated as either type as both types.
   Material: Marble
   Role: Patron
   Set: Board Game Geek expansion
@@ -368,9 +405,11 @@ Plebeian Council:
 
 Prison:
   Card Count: 3
-  Function: 'COMPLETION: You may give another player at least three points of influence. If you do, you
-    may take a completed structure from them that you don’t already have. Treat that structure as if you
-    had just completed it.'
+  Function: >-
+    COMPLETION: You may give another player at least three points of influence.
+    If you do, you may take a completed structure from them that you don't
+    already have.
+    Treat that structure as if you had just completed it.
   Material: Stone
   Role: Merchant
   Set: ''
@@ -380,7 +419,8 @@ Prison:
 
 Road:
   Card Count: 6
-  Function: 'BUILDING STRUCTURES: You may add material of any type to STONE structures.'
+  Function: >-
+    BUILDING STRUCTURES: You may add material of any type to STONE structures.
   Material: Rubble
   Role: Laborer
   Set: ''
@@ -390,7 +430,8 @@ Road:
 
 School:
   Card Count: 3
-  Function: 'COMPLETION: You may THINK  for each point of influence you have.'
+  Function: >-
+    COMPLETION: You may THINK  for each point of influence you have.
   Material: Brick
   Role: Legionary
   Set: ''
@@ -400,8 +441,10 @@ School:
 
 Scriptorium:
   Card Count: 3
-  Function: "BUILDING STRUCTURES: You may add MARBLE to any type of structure. \n\nBUILDING STRUCTURES:\
-    \ If you add MARBLE to a structure, it is completed.  "
+  Function: >-
+    BUILDING STRUCTURES: You may add MARBLE to any type of structure.
+
+    BUILDING STRUCTURES: If you add MARBLE to a structure, it is completed.
   Material: Stone
   Role: Merchant
   Set: ''
@@ -411,8 +454,9 @@ Scriptorium:
 
 Senate:
   Card Count: 3
-  Function: 'END OF ROUND: You may draw any JACK cards spent by other players. If more than one player
-    has this function, they must do this in turn order.'
+  Function: >-
+    END OF ROUND: You may draw any JACK cards spent by other players.
+    If more than one player has this function, they must do this in turn order.
   Material: Concrete
   Role: Architect
   Set: Imperium
@@ -422,8 +466,9 @@ Senate:
 
 Sewer:
   Card Count: 3
-  Function: 'LEAD / FOLLOW: If you spend order cards to lead or follow a role, you may stockpile them
-    at the end of the round instead of draining them.'
+  Function: >-
+    LEAD / FOLLOW: If you spend order cards to lead or follow a role, you may stockpile them
+    at the end of the round instead of draining them.
   Material: Stone
   Role: Merchant
   Set: ''
@@ -433,7 +478,8 @@ Sewer:
 
 Shrine:
   Card Count: 3
-  Function: 'THINK: Your hand size is increased by +2.'
+  Function: >-
+    THINK: Your hand size is increased by +2.
   Material: Brick
   Role: Legionary
   Set: ''
@@ -443,7 +489,7 @@ Shrine:
 
 Solarium:
   Card Count: 3
-  Function: |-
+  Function: >-
     ARCHITECT: If you complete this, you may then stockpile one of its materials.
 
     ARCHITECT: If you complete a structure, you may then stockpile one of its materials.
@@ -456,9 +502,11 @@ Solarium:
 
 Stairway:
   Card Count: 3
-  Function: 'ARCHITECT: You may also add a material from your stockpile to another player’s completed
-    structure. While that material is added to it, all players that don’t otherwise have its functions
-    gain them.'
+  Function: >-
+    ARCHITECT: You may also add a material from your stockpile to another
+    player's completed structure.
+    While that material is added to it, all players that don't otherwise have its functions
+    gain them.
   Material: Marble
   Role: Patron
   Set: ''
@@ -468,8 +516,11 @@ Stairway:
 
 Statue:
   Card Count: 3
-  Function: "BUILDING STRUCTURES: You may build this on any type of site. If you do, you may add material\
-    \ of that site’s type to this.\n\nINFLUENCE: You get +3 points when scoring."
+  Function: >-
+    BUILDING STRUCTURES: You may build this on any type of site.
+    If you do, you may add material of that site's type to this.
+
+    INFLUENCE: You get +3 points when scoring.
   Material: Marble
   Role: Patron
   Set: ''
@@ -479,7 +530,8 @@ Statue:
 
 Storeroom:
   Card Count: 3
-  Function: 'CLIENTELE: You may treat your clients as if they were LABORER clients instead.'
+  Function: >-
+    CLIENTELE: You may treat your clients as if they were LABORER clients instead.
   Material: Concrete
   Role: Architect
   Set: ''
@@ -489,7 +541,8 @@ Storeroom:
 
 Temple:
   Card Count: 3
-  Function: 'THINK: Your hand size is increased by +4.'
+  Function: >-
+    THINK: Your hand size is increased by +4.
   Material: Marble
   Role: Patron
   Set: ''
@@ -499,7 +552,7 @@ Temple:
 
 Tower:
   Card Count: 3
-  Function: |-
+  Function: >-
     BUILDING STRUCTURES: You may spend only one action to build new structures on out-of-town sites.
 
     BUILDING STRUCTURES: You may add RUBBLE to any type of structure.
@@ -512,7 +565,8 @@ Tower:
 
 Tribunal:
   Card Count: 3
-  Function: 'THINK: You may also draw a JACK card.'
+  Function: >-
+    THINK: You may also draw a JACK card.
   Material: Concrete
   Role: Architect
   Set: Republic
@@ -522,8 +576,8 @@ Tribunal:
 
 Triclinium:
   Card Count: 3
-  Function: 'CLIENTELE: When you take a client’s action, if you are leading or following, you may then
-    sell it.'
+  Function: >-
+    CLIENTELE: When you take a client's action, if you are leading or following, you may then sell it.
   Material: Marble
   Role: Patron
   Set: Board Game Geek expansion
@@ -533,7 +587,8 @@ Triclinium:
 
 Villa:
   Card Count: 3
-  Function: 'ARCHITECT: If you add a material to this, it is completed.'
+  Function: >-
+    ARCHITECT: If you add a material to this, it is completed.
   Material: Stone
   Role: Merchant
   Set: ''
@@ -543,8 +598,9 @@ Villa:
 
 Vomitorium:
   Card Count: 3
-  Function: 'THINK: You may first drain all the order cards in your hand and return all the JACK cards
-    in your hand.'
+  Function: >-
+    THINK: You may first drain all the order cards in your hand and return all the JACK cards
+    in your hand.
   Material: Concrete
   Role: Architect
   Set: ''
@@ -554,7 +610,7 @@ Vomitorium:
 
 Wall:
   Card Count: 3
-  Function: |-
+  Function: >-
     INFLUENCE: You get +1 point for every two materials in your stockpile when scoring.
 
     INFLUENCE: Increased by +1 point for every two materials in your stockpile when scoring.
@@ -567,8 +623,8 @@ Wall:
 
 Watch Post:
   Card Count: 3
-  Function: 'CRAFTSMAN: You may instead tear down one of your completed structures by drawing it and stockpiling
-    each of its materials.'
+  Function: >-
+    CRAFTSMAN: You may instead tear down one of your completed structures by drawing it and stockpiling each of its materials.
   Material: Stone
   Role: Merchant
   Set: Board Game Geek expansion
@@ -578,8 +634,9 @@ Watch Post:
 
 Watermill:
   Card Count: 3
-  Function: 'LEAD / FOLLOW: When you lead or follow the LABORER role, after taking all of your LABORER  clients’
-    actions, you may then take your ARCHITECT clients’ actions.'
+  Function: >-
+    LEAD / FOLLOW: When you lead or follow the LABORER role, after taking all of your LABORER  clients' actions,
+    you may then take your ARCHITECT clients' actions.
   Material: Brick
   Role: Legionary
   Set: Board Game Geek expansion
