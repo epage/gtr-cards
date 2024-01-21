@@ -1,0 +1,550 @@
+Academy:
+  Card Count: 3
+  Function: May perform one THINKER action after turn during which you performed CRAFTSMAN action
+  Material: Brick
+  Role: Legionary
+  Set: ''
+  Timing: In Addition
+  Type: Additional Action
+  Value: 2
+
+Aerarium:
+  Card Count: 3
+  Function: Use highest influence among players (except scoring). May exchange influence to trigger "Upon
+    Completion" effect on a complete building
+  Material: Concrete
+  Role: Architect
+  Set: Board Game Geek expansion
+  Timing: ''
+  Type: ''
+  Value: 2
+
+Amphitheatre:
+  Card Count: 3
+  Function: May perform one CRAFTSMAN action for each INFLUENCE
+  Material: Concrete
+  Role: Architect
+  Set: ''
+  Timing: Upon Completion
+  Type: Additional Action (Influence)
+  Value: 2
+
+Aqueduct:
+  Card Count: 3
+  Function: When performing PATRON action may take client from HAND.  Maximum CLIENTELE x 2
+  Material: Concrete
+  Role: Architect
+  Set: ''
+  Timing: In Addition
+  Type: Increase Limit
+  Value: 2
+
+Archway:
+  Card Count: 3
+  Function: When performing ARCHITECT action may take material from POOL
+  Material: Brick
+  Role: Legionary
+  Set: ''
+  Timing: ''
+  Type: Change Source
+  Value: 2
+
+Atrium:
+  Card Count: 3
+  Function: When performing MERCHANT action may take from DECK (do not look at card)
+  Material: Brick
+  Role: Legionary
+  Set: ''
+  Timing: ''
+  Type: Change Source
+  Value: 2
+
+Bacchanalia:
+  Card Count: 3
+  Function: Upon Completion, reveal cards from the deck equal to influence. May put 1 in VAULT, 1 in STOCKPILE,
+    1 in CLIENTELE, 1 on in-town site, 1 as a material for a building. Leftovers go in hand.
+  Material: Stone
+  Role: Merchant
+  Set: Board Game Geek expansion
+  Timing: Upon Completion
+  Type: ''
+  Value: 3
+
+Bar:
+  Card Count: 6
+  Function: When performing PATRON action may take card from DECK
+  Material: Rubble
+  Role: Laborer
+  Set: ''
+  Timing: ''
+  Type: Change Source
+  Value: 1
+
+Basilica:
+  Card Count: 3
+  Function: When performing MERCHANT action may take material from HAND
+  Material: Marble
+  Role: Patron
+  Set: ''
+  Timing: In Addition
+  Type: Change Source
+  Value: 3
+
+Bath:
+  Card Count: 3
+  Function: When performing PATRON action each client you hire may perform its action once as it enters
+    CLIENTELE
+  Material: Brick
+  Role: Legionary
+  Set: ''
+  Timing: ''
+  Type: Additional Action
+  Value: 2
+
+Bridge:
+  Card Count: 3
+  Function: When performing LEGIONARY action may take material from STOCKPILE.  Ignore Palisades.  May
+    take from all opponents
+  Material: Concrete
+  Role: Architect
+  Set: ''
+  Timing: In Addition
+  Type: Change source
+  Value: 2
+
+Castra:
+  Card Count: 6
+  Function: THINK at end of a round when you lost card to LEGIONARY
+  Material: Rubble
+  Role: Laborer
+  Set: Board Game Geek expansion
+  Timing: In Addition
+  Type: Immunity
+  Value: 1
+
+Castra Praetoria:
+  Card Count: 3
+  Function: May show incomplete building to demand with LEGIONARY. Upon completion, may put material from
+    this building in STOCKPILE.
+  Material: Brick
+  Role: Legionary
+  Set: Board Game Geek expansion
+  Timing: In Addition, Upon Completion
+  Type: ''
+  Value: 2
+
+Catacomb:
+  Card Count: 3
+  Function: Game ends immediately.  Score as usual
+  Material: Stone
+  Role: Merchant
+  Set: ''
+  Timing: Upon Completion
+  Type: End Game
+  Value: 3
+
+Circus:
+  Card Count: 6
+  Function: May play two cards of same role as JACK
+  Material: Wood
+  Role: Craftsman
+  Set: Imperium
+  Timing: ''
+  Type: Wildcards
+  Value: 1
+
+Circus Maximus:
+  Card Count: 3
+  Function: Each client may perform its action twice when you lead or follow its role
+  Material: Stone
+  Role: Merchant
+  Set: ''
+  Timing: ''
+  Type: Additional Action
+  Value: 3
+
+Colosseum:
+  Card Count: 3
+  Function: When performing LEGIONARY action may take opponent's client and place in VAULT as material
+  Material: Stone
+  Role: Merchant
+  Set: Imperium
+  Timing: In Addition
+  Type: Change Destination
+  Value: 3
+
+Crane:
+  Card Count: 6
+  Function: May use any card to lead or follow ARCHITECT
+  Material: Wood
+  Role: Craftsman
+  Set: Republic
+  Timing: ''
+  Type: Wildcards
+  Value: 1
+
+Dock:
+  Card Count: 6
+  Function: When performing LABORER action may take material from HAND
+  Material: Wood
+  Role: Craftsman
+  Set: ''
+  Timing: In Addition
+  Type: Change Source
+  Value: 1
+
+Domus:
+  Card Count: 6
+  Function: Upon Completion, may perform one PATRON action
+  Material: Wood
+  Role: Craftsman
+  Set: Board Game Geek expansion
+  Timing: Upon Completion
+  Type: Additional Action
+  Value: 1
+
+Domus Aurea:
+  Card Count: 3
+  Function: When performing LEGIONARY action, may tear down matching incomplete building with no material.
+    Foundation -> STOCKPILE, site -> INFLUENCE
+  Material: Stone
+  Role: Merchant
+  Set: Republic
+  Timing: In Addition
+  Type: ''
+  Value: 3
+
+Forum:
+  Card Count: 3
+  Function: One client of each role wins game
+  Material: Marble
+  Role: Patron
+  Set: Imperium
+  Timing: ''
+  Type: Winner
+  Value: 3
+
+Forum Romanum:
+  Card Count: 3
+  Function: One client of each role and one of each material in STOCKPILE wins game
+  Material: Marble
+  Role: Patron
+  Set: Republic
+  Timing: ''
+  Type: Winner
+  Value: 3
+
+Foundry:
+  Card Count: 3
+  Function: May perform one LABORER action for each INFLUENCE
+  Material: Brick
+  Role: Legionary
+  Set: ''
+  Timing: Upon Completion
+  Type: Additional Action (Influence)
+  Value: 2
+
+Fountain:
+  Card Count: 3
+  Function: When performing CRAFTSMAN action may use cards from DECK.  Retain any unused cards in HAND
+  Material: Marble
+  Role: Patron
+  Set: ''
+  Timing: ''
+  Type: Change Source
+  Value: 3
+
+Garden:
+  Card Count: 3
+  Function: May perform one PATRON action for each INFLUENCE
+  Material: Stone
+  Role: Merchant
+  Set: ''
+  Timing: Upon Completion
+  Type: Additional Action (Influence)
+  Value: 3
+
+Gate:
+  Card Count: 3
+  Function: Incomplete MARBLE structures provide FUNCTION
+  Material: Brick
+  Role: Legionary
+  Set: ''
+  Timing: ''
+  Type: Building Shortcut
+  Value: 2
+
+Insula:
+  Card Count: 6
+  Function: Maximum CLIENTELE + 2
+  Material: Rubble
+  Role: Laborer
+  Set: ''
+  Timing: ''
+  Type: Increase Limit
+  Value: 1
+
+Latrine:
+  Card Count: 6
+  Function: Before performing THINKER action may discard one card to POOL
+  Material: Rubble
+  Role: Laborer
+  Set: ''
+  Timing: ''
+  Type: Discard
+  Value: 1
+
+Ludus Magnus:
+  Card Count: 3
+  Function: Each MERCHANT client counts as any role
+  Material: Marble
+  Role: Patron
+  Set: ''
+  Timing: ''
+  Type: Wildcards
+  Value: 3
+
+Market:
+  Card Count: 6
+  Function: Maximum VAULT + 2
+  Material: Wood
+  Role: Craftsman
+  Set: ''
+  Timing: ''
+  Type: Increase Limit
+  Value: 1
+
+Palace:
+  Card Count: 3
+  Function: May play multiple cards of same role in order to perform additional actions
+  Material: Marble
+  Role: Patron
+  Set: ''
+  Timing: ''
+  Type: Additional Action
+  Value: 3
+
+Palisade:
+  Card Count: 6
+  Function: Immune to LEGIONARY
+  Material: Wood
+  Role: Craftsman
+  Set: ''
+  Timing: ''
+  Type: Immunity
+  Value: 1
+
+Plebeian Council:
+  Card Count: 3
+  Function: Win whenever you have more LABORER clients than any other player and there are more LABORER
+    clients than LEGIONARY clients total.
+  Material: Marble
+  Role: Patron
+  Set: Board Game Geek expansion
+  Timing: ''
+  Type: Winner
+  Value: 3
+
+Prison:
+  Card Count: 3
+  Function: May exchange INFLUENCE for opponent's completed structure
+  Material: Stone
+  Role: Merchant
+  Set: ''
+  Timing: Upon Completion
+  Type: Influence Exchange
+  Value: 3
+
+Road:
+  Card Count: 6
+  Function: When adding to STONE structure may use any material
+  Material: Rubble
+  Role: Laborer
+  Set: ''
+  Timing: ''
+  Type: Building Shortcut
+  Value: 1
+
+School:
+  Card Count: 3
+  Function: May perform one THINKER action for each INFLUENCE
+  Material: Brick
+  Role: Legionary
+  Set: ''
+  Timing: Upon Completion
+  Type: Additional Action (Influence)
+  Value: 2
+
+Scriptorium:
+  Card Count: 3
+  Function: May use one MARBLE material to complete any structure
+  Material: Stone
+  Role: Merchant
+  Set: ''
+  Timing: ''
+  Type: Building Shortcut
+  Value: 3
+
+Senate:
+  Card Count: 3
+  Function: May take opponent's JACK into HAND at end of turn in which it is played
+  Material: Concrete
+  Role: Architect
+  Set: Imperium
+  Timing: ''
+  Type: Change Destination
+  Value: 2
+
+Sewer:
+  Card Count: 3
+  Function: May place Orders cards used to lead or follow into STOCKPILE at end of turn
+  Material: Stone
+  Role: Merchant
+  Set: ''
+  Timing: ''
+  Type: Change Destination
+  Value: 3
+
+Shrine:
+  Card Count: 3
+  Function: Maximum HAND + 2
+  Material: Brick
+  Role: Legionary
+  Set: ''
+  Timing: ''
+  Type: Increase Limit
+  Value: 2
+
+Solarium:
+  Card Count: 3
+  Function: Whenever you complete a building using ARCHITECT, may move one material from building to STOCKPILE.
+    Includes when building SOLARIUM.
+  Material: Concrete
+  Role: Architect
+  Set: Board Game Geek expansion
+  Timing: In Addition
+  Type: ''
+  Value: 2
+
+Stairway:
+  Card Count: 3
+  Function: When performing ARCHITECT action may add material to opponent's completed STRUCTURE to make
+    function available to all players
+  Material: Marble
+  Role: Patron
+  Set: ''
+  Timing: ''
+  Type: Building Shortcut
+  Value: 3
+
+Statue:
+  Card Count: 3
+  Function: + 3 VP. May place Statue on any SITE
+  Material: Marble
+  Role: Patron
+  Set: ''
+  Timing: ''
+  Type: Victory Points
+  Value: 3
+
+Storeroom:
+  Card Count: 3
+  Function: All clients count as LABORERS
+  Material: Concrete
+  Role: Architect
+  Set: ''
+  Timing: ''
+  Type: Wildcards
+  Value: 2
+
+Temple:
+  Card Count: 3
+  Function: Maximum HAND + 4
+  Material: Marble
+  Role: Patron
+  Set: ''
+  Timing: ''
+  Type: Increase Limit
+  Value: 3
+
+Tower:
+  Card Count: 3
+  Function: May use RUBBLE in any STRUCTURE.  May lay foundation onto any out of town SITE at no extra
+    cost
+  Material: Concrete
+  Role: Architect
+  Set: ''
+  Timing: ''
+  Type: Building Shortcut
+  Value: 2
+
+Tribunal:
+  Card Count: 3
+  Function: After performing THINKER action, may draw a JACK
+  Material: Concrete
+  Role: Architect
+  Set: Republic
+  Timing: ''
+  Type: ''
+  Value: 2
+
+Triclinium:
+  Card Count: 3
+  Function: When leading or following, may put each client into VAULT after it performs its role.
+  Material: Marble
+  Role: Patron
+  Set: Board Game Geek expansion
+  Timing: In Addition
+  Type: ''
+  Value: 3
+
+Villa:
+  Card Count: 3
+  Function: When performing ARCHITECT action may complete Villa with one material
+  Material: Stone
+  Role: Merchant
+  Set: ''
+  Timing: Early Completion
+  Type: Building Shortcut
+  Value: 3
+
+Vomitorium:
+  Card Count: 3
+  Function: Before performing THINKER action may discard all cards to POOL
+  Material: Concrete
+  Role: Architect
+  Set: ''
+  Timing: ''
+  Type: Discard
+  Value: 2
+
+Wall:
+  Card Count: 3
+  Function: Immune to LEGIONARY.  + 1 VP for every two materials in STOCKPILE
+  Material: Concrete
+  Role: Architect
+  Set: ''
+  Timing: ''
+  Type: Immunity/Victory Points
+  Value: 2
+
+Watch Post:
+  Card Count: 3
+  Function: May use CRAFTSMAN to tear down one of your completed bulidings. Foundation -> HAND, materials
+    -> STOCKPILE.
+  Material: Stone
+  Role: Merchant
+  Set: Board Game Geek expansion
+  Timing: ''
+  Type: ''
+  Value: 3
+
+Watermill:
+  Card Count: 3
+  Function: At end of turn when you led or followed LABORER, may use each ARCHITECT client once.
+  Material: Brick
+  Role: Legionary
+  Set: Board Game Geek expansion
+  Timing: In Addition
+  Type: ''
+  Value: 2
