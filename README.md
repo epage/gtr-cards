@@ -12,3 +12,5 @@ seems to be to deviate from the name of cards from what is in [rseater's "BlackB
 [tylorlilley's "My Custom Glory to Rome: Mini Travel Edition" Print-and-Play](https://boardgamegeek.com/thread/3073144/my-custom-glory-rome-mini-travel-edition)
 with the card name's reverted back to what batdog used
 ([differences](https://github.com/epage/gtr-cards/compare/blackbox...mini)).
+
+Note: European editions tend to rename "Jack" to "Senator".
