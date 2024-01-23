@@ -12,8 +12,9 @@ Academy:
 Aerarium:
   Card Count: 3
   Function: >-
-    Use highest influence among players (except scoring).
-    May exchange influence to trigger "Upon Completion" effect on a complete building
+    Use highest influence among players at all times except final scoring.
+
+    Upon completion, you give this site to the owner of a completed structure to perform its 'upon completion' effect.
   Material: Concrete
   Role: Architect
   Set: Board Game Geek expansion
@@ -71,9 +72,10 @@ Atrium:
 Bacchanalia:
   Card Count: 3
   Function: >-
-    Upon Completion, reveal cards from the deck equal to influence.
-    May put 1 in VAULT, 1 in STOCKPILE, 1 in CLIENTELE, 1 on in-town site, 1 as a material for a building.
-    Leftovers go in hand.
+    Upon Completion, reveal cards from the deck equal to your influence.
+    You may put one into each: your vault, your stockpile, your clientele,
+    as foundation on an in-town site, an incomplete structure as material.
+    Leftovers go to your hand.
   Material: Stone
   Role: Merchant
   Set: Board Game Geek expansion
@@ -130,7 +132,7 @@ Bridge:
 Castra:
   Card Count: 6
   Function: >-
-    THINK at end of a round when you lost card to LEGIONARY
+    THINK at end of a round in which you lost at least on card from your hand to a LEGIONARY
   Material: Rubble
   Role: Laborer
   Set: Board Game Geek expansion
@@ -141,8 +143,9 @@ Castra:
 Castra Praetoria:
   Card Count: 3
   Function: >-
-    May show incomplete building to demand with LEGIONARY.
-    Upon completion, may put material from this building in STOCKPILE.
+    You may show an incomplete structure to demand with a LEGIONARY
+
+    Upon completion, you may put the material from this structure into your clientele.
   Material: Brick
   Role: Legionary
   Set: Board Game Geek expansion
@@ -165,7 +168,7 @@ Catacomb:
 Circus:
   Card Count: 6
   Function: >-
-    May play two cards of same role as JACK
+    You may play two cards of the same role as a JACK
   Material: Wood
   Role: Craftsman
   Set: Imperium
@@ -187,7 +190,8 @@ Circus Maximus:
 Colosseum:
   Card Count: 3
   Function: >-
-    When performing LEGIONARY action may take opponent's client and place in VAULT as material
+    When performing a LEGIONARY action, you may additionally take one matching
+    client from each opponent and place it in your vault.
   Material: Stone
   Role: Merchant
   Set: Imperium
@@ -220,7 +224,7 @@ Dock:
 Domus:
   Card Count: 6
   Function: >-
-    Upon Completion, may perform one PATRON action
+    Upon Completion, you may perform one PATRON action.
   Material: Wood
   Role: Craftsman
   Set: Board Game Geek expansion
@@ -243,7 +247,7 @@ Domus Aurea:
 Forum:
   Card Count: 3
   Function: >-
-    One client of each role wins game
+    You win immediately whenever you have a client of each type in your clientele.
   Material: Marble
   Role: Patron
   Set: Imperium
@@ -376,8 +380,8 @@ Palisade:
 Plebeian Council:
   Card Count: 3
   Function: >-
-    Win whenever you have more LABORER clients than any other player and there are more LABORER
-    clients than LEGIONARY clients total.
+    You win immediately whenever you have more LABORER clients than any other player and there are more LABORER
+    clients than LEGIONARY clients in total.
   Material: Marble
   Role: Patron
   Set: Board Game Geek expansion
@@ -432,7 +436,7 @@ Scriptorium:
 Senate:
   Card Count: 3
   Function: >-
-    May take opponent's JACK into HAND at end of turn in which it is played
+    At the end of each turn, you may take into your hand any JACKS played by opponents.
   Material: Concrete
   Role: Architect
   Set: Imperium
@@ -465,8 +469,8 @@ Shrine:
 Solarium:
   Card Count: 3
   Function: >-
-    Whenever you complete a building using ARCHITECT, may move one material from building to STOCKPILE.
-    Includes when building SOLARIUM.
+    Whenever you complete a structure (including this) using an ARCHITECT,
+    you may move one material from that structure into your stockpile.
   Material: Concrete
   Role: Architect
   Set: Board Game Geek expansion
@@ -548,7 +552,7 @@ Tribunal:
 Triclinium:
   Card Count: 3
   Function: >-
-    When leading or following, may put each client into VAULT after it performs its role.
+    When leading or following, you may put each client into your vault after it performs its role.
   Material: Marble
   Role: Patron
   Set: Board Game Geek expansion
@@ -594,8 +598,8 @@ Wall:
 Watch Post:
   Card Count: 3
   Function: >-
-    May use CRAFTSMAN to tear down one of your completed buildings.
-    Foundation -> HAND, materials -> STOCKPILE.
+    You may use a CRAFTSMAN action to tear down one of your completed structures.
+    Add its foundation to your hand and its material to your stockpile.
   Material: Stone
   Role: Merchant
   Set: Board Game Geek expansion
@@ -606,7 +610,7 @@ Watch Post:
 Watermill:
   Card Count: 3
   Function: >-
-    At end of turn when you led or followed LABORER, may use each ARCHITECT client once.
+    At end of a turn in which you led or followed a LABORER, you may use each of your ARCHITECT client once.
   Material: Brick
   Role: Legionary
   Set: Board Game Geek expansion
