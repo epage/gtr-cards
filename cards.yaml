@@ -97,7 +97,7 @@ Bar:
 Basilica:
   Card Count: 3
   Function: >-
-    When performing MERCHANT action, you may action move one additional card from your hand to your vault.
+    When performing MERCHANT action, you may move one additional card from your hand to your vault.
   Material: Marble
   Role: Patron
   Set: ''
