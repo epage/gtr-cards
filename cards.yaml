@@ -132,7 +132,7 @@ Bridge:
 Castra:
   Card Count: 6
   Function: >-
-    THINK at end of a round in which you lost at least on card from your hand to a LEGIONARY
+    THINK at end of a round in which you lost at least on card from your hand to a LEGIONARY.
   Material: Rubble
   Role: Laborer
   Set: Board Game Geek expansion
@@ -143,7 +143,7 @@ Castra:
 Castra Praetoria:
   Card Count: 3
   Function: >-
-    You may show an incomplete structure to demand with a LEGIONARY
+    You may show an incomplete structure to demand with a LEGIONARY.
 
     Upon completion, you may put the material from this structure into your clientele.
   Material: Brick
@@ -168,7 +168,7 @@ Catacomb:
 Circus:
   Card Count: 6
   Function: >-
-    You may play two cards of the same role as a JACK
+    You may play two cards of the same role as a JACK.
   Material: Wood
   Role: Craftsman
   Set: Imperium
