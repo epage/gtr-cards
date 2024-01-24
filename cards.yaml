@@ -60,7 +60,7 @@ Archway:
 Atrium:
   Card Count: 3
   Function: >-
-    When performing MERCHANT action, you may take a card from the deck instead of your stockpile.
+    When performing MERCHANT action, you may take a material from the deck instead of your stockpile.
     (don't look at it)
   Material: Brick
   Role: Legionary
@@ -97,7 +97,7 @@ Bar:
 Basilica:
   Card Count: 3
   Function: >-
-    When performing MERCHANT action, you may move one additional card from your hand to your vault.
+    When performing MERCHANT action, you may move one additional material from your hand to your vault.
   Material: Marble
   Role: Patron
   Set: ''
@@ -132,7 +132,7 @@ Bridge:
 Castra:
   Card Count: 6
   Function: >-
-    THINK at end of a round in which you lost at least on card from your hand to a LEGIONARY.
+    THINK at end of a round in which you lost at least on material from your hand to a LEGIONARY.
   Material: Rubble
   Role: Laborer
   Set: Board Game Geek expansion
