@@ -36,7 +36,7 @@ Amphitheatre:
 Aqueduct:
   Card Count: 3
   Function: >-
-    When performing PATRON action, you may take one additional client from hand.
+    When performing PATRON action, you may take one additional client from your hand.
 
     Maximum clientele x2
   Material: Concrete
@@ -213,7 +213,7 @@ Crane:
 Dock:
   Card Count: 6
   Function: >-
-    When performing LABORER action, you may take one additional material from hand.
+    When performing LABORER action, you may take one additional material from your hand.
   Material: Wood
   Role: Craftsman
   Set: ''
