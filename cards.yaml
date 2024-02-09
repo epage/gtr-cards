@@ -121,6 +121,7 @@ Bridge:
   Function: >-
     When performing LEGIONARY action, you may demand materials from all players.
     You may additionally take one material from each opponent's stockpile.
+
     Ignore Palisades.
   Material: Concrete
   Role: Architect
